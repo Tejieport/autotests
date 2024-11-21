@@ -169,3 +169,12 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
+
+# Исключение настроек IDE
+.idea/
+
+# Исключение кешей Python
+__pycache__/
+
+# Исключение виртуального окружения
+venv/
