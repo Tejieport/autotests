@@ -1,1 +1,21 @@
 secret_data
+
+# Операционные системы
+*.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+
+# Инструменты
+.idea/
+.vscode/
